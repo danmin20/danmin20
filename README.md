@@ -5,6 +5,7 @@
 ✔ Worked in **LIKE LION 8th** Staff  
 ✔ Worked in **SOPT 26th** Android Part  
 ✔ Worked in **DEPROMEET 8th** Frontend Part  
+✔ Worked in **(주)트웬티온스** Intern
 
 <br>
 <div>
