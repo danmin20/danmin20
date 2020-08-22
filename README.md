@@ -2,10 +2,10 @@
 👩‍🎓 Kyunghee Univ. Computer Engineering  
 👩‍💻 **FRONT-END** Developer (wanna be a 💖**FULL-STACK**💖)
   
-✔ Worked in **LIKE LION 8th** Staff  
-✔ Worked in **SOPT 26th** Android Part  
-✔ Worked in **DEPROMEET 8th** Frontend Part  
-✔ Worked in **(주)트웬티온스** Intern (Frontend, Vue.js)
+✔ Worked in **LIKE LION 8th** Staff 👉 Django & Vanilla.js  
+✔ Worked in **SOPT 26th** Android Part 👉 Kotlin  
+✔ Worked in **DEPROMEET 8th** Frontend Part 👉 React.js  
+✔ Worked in **(주)트웬티온스** Frontend Intern 👉 Vue.js
 
 <br>
 <div>
