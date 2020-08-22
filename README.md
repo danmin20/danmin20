@@ -4,8 +4,8 @@
   
 ✔ Worked in **LIKE LION 8th** Staff 👉 Django & Vanilla.js  
 ✔ Worked in **SOPT 26th** Android Part 👉 Kotlin  
-✔ Worked in **DEPROMEET 8th** Frontend Part 👉 React.js  
-✔ Worked in **(주)트웬티온스** Frontend Intern 👉 Vue.js
+✔ Worked in **DEPROMEET 8th** Frontend Part 👉 React  
+✔ Worked in **(주)트웬티온스** Intern 👉 Vue
 
 <br>
 <div>
