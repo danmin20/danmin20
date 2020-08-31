@@ -23,7 +23,7 @@
 
 ## Links
 📬 danmin20@khu.ac.kr  
-✏ https://danmin20.github.io/aboutme/  
+✏ https://danmin20.oopy.io  
 📋 https://sourcerer.io/danmin20
 
 </div>
