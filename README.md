@@ -1,6 +1,6 @@
 # Lee Jeong Min
 👩‍🎓 Kyunghee Univ. Computer Engineering  
-👩‍💻 **FRONT-END** Developer (wanna be a 💖**FULL-STACK**💖)
+👩‍💻 **WEB FRONT-END** Developer
   
 ✔ **LIKE LION 8th** Staff 👉 Django & Vanilla.js  
 ✔ **SOPT 26th** Android Part 👉 Kotlin  
