@@ -6,7 +6,8 @@
 ✔ **SOPT 26th** Android Part 👉 Kotlin  
 ✔ **DEPROMEET 8th** Frontend Part 👉 React  
 ✔ **(주)트웬티온스** Intern 👉 Vue  
-✔ **우아한테크러닝 3th** Student 👉 React
+✔ **우아한테크러닝 3th** Student 👉 React  
+✔ **AUSG 4th** Member 👉 AWS
 
 <br>
 <div>
