@@ -11,12 +11,19 @@
 
 <br>
 <div>
-  
+
+## Favorite Skills
+[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+[![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
+
+
 ## Tech Skills
-✨ JavaScript, TypeScript, Kotiln, Python, C++, HTML, CSS...  
+✨ Kotiln, Python, C++, HTML, CSS...  
 ✨ Visual Studio, Visual Code, Android Studio, Pycharm, WebStorm...  
-✨ React, Vue, Node.js, Express, Oracle, Prisma, Django, GraphQL, Firebase, Git, Fork, Slack, Notion...  
-  
+✨ Node.js, Express, Oracle, Prisma, Django, GraphQL, Firebase, Git, Fork, Slack, Notion...  
+
 </div>
 
 <br>
