@@ -8,6 +8,8 @@
 ✔ **(주)트웬티온스** Intern 👉 Vue  
 ✔ **우아한테크러닝 3th** Student 👉 React  
 ✔ **AUSG 4th** Member 👉 AWS
+✔ **MEGAZONCLOUD** Intern 👉 Vue
+
 
 <br>
 <div>
