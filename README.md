@@ -4,18 +4,17 @@
   
 ✔ **LIKE LION 8th** Staff 👉 Django & Vanilla.js  
 ✔ **SOPT 26th** Android Part 👉 Kotlin  
-✔ **DEPROMEET 8th** Frontend Part 👉 React  
-✔ **(주)트웬티온스** Intern 👉 Vue  
+✔ **DEPROMEET 8th** Frontend Part 👉 React.js & TS  
+✔ **(주)트웬티온스** Intern 👉 Vue.js  
 ✔ **우아한테크러닝 3th** Student 👉 React  
 ✔ **AUSG 4th** Member 👉 AWS  
-✔ **MEGAZONCLOUD** Intern 👉 Vue
+✔ **MEGAZONCLOUD** Intern 👉 Vue & TS
 
 
 <br>
 <div>
 
 
-// https://simpleicons.org/
 ## Favorite Skills
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
@@ -26,7 +25,7 @@
 ## Tech Skills
 ✨ Kotiln, Python, C++, HTML, CSS...  
 ✨ Visual Studio, Visual Code, Android Studio, Pycharm, WebStorm...  
-✨ Node.js, Express, Oracle, Prisma, Django, GraphQL, Firebase, Git, Fork, Slack, Notion...  
+✨ Node.js, Express, Oracle, Prisma, Django, GraphQL, Firebase, Storybook, Git, Fork, GitKraken, Slack, Notion...  
 
 </div>
 
@@ -44,7 +43,6 @@
 <div>
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=danmin20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmin20&layout=compact)
 
 </div>
 
