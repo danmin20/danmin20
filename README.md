@@ -2,9 +2,9 @@
 👩‍🎓 Kyunghee Univ. Computer Engineering  
 👩‍💻 **WEB FRONT-END** Developer
   
-✔ **LIKE LION 8th** Staff 👉 Django & Vanilla.js  
+✔ **멋쟁이사자처럼 8th** Staff 👉 Django & Vanilla.js  
 ✔ **SOPT 26th** Android Part 👉 Kotlin  
-✔ **DEPROMEET 8th** Frontend Part 👉 React.js & TS  
+✔ **디프만 8~9th** Frontend Part 👉 React.js & TS  
 ✔ **(주)트웬티온스** Intern 👉 Vue.js  
 ✔ **우아한테크러닝 3th** Student 👉 React  
 ✔ **AUSG 4th** Member 👉 AWS  
