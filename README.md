@@ -33,9 +33,9 @@
 <div>
 
 ## Links
-📬 danmin20@khu.ac.kr  
-✏ https://danmin20.oopy.io  
-📋 https://sourcerer.io/danmin20
+📬  [MAIL](danmin20@khu.ac.kr)  
+✏  [NOTION BLOG](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)  
+📋  [SOURCERER](https://sourcerer.io/danmin20)
 
 </div>
 
