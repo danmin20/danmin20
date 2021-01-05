@@ -8,8 +8,9 @@
 ✔ **(주)트웬티온스** Intern 👉 Vue.js  
 ✔ **우아한테크러닝 3th** Student 👉 React  
 ✔ **AUSG 4th** Member 👉 AWS  
-✔ **MEGAZONCLOUD** Intern 👉 Vue & TS
-
+✔ **MEGAZONCLOUD** Intern 👉 Vue & TS 
+  
+For More Info... [RESUME](https://www.notion.so/2739387474ca4389bbadd9e9b627b570)
 
 <br>
 <div>
