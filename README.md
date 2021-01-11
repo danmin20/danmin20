@@ -7,11 +7,7 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
   
-✨ *For More Info...* **[RESUME](https://www.notion.so/2739387474ca4389bbadd9e9b627b570)**
-
-## Links
-📬  [MAIL](ljm991108@gmail.com)  
-✏  [NOTION BLOG](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)  
+✨ *For More Info...* **[RESUME](https://www.notion.so/2739387474ca4389bbadd9e9b627b570)** | **[NOTION BLOG](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
 
 <br>
 <div>
