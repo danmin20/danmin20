@@ -12,7 +12,7 @@
 [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[RESUME](https://www.notion.so/2739387474ca4389bbadd9e9b627b570)** | **[NOTION BLOG](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
+✨ *For More Info...* **[WEBSITE](https://danmin20.netlify.app/)** | **[NOTION](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
 
 <br>
 
