@@ -16,7 +16,7 @@
 ✨ *For More Info...* **[WEBSITE](https://danmin20.netlify.app/)** | **[NOTION](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
   
 **@NAVER** Glace CIC / G스마트플레이스서비스개발 <sub><sup>(2021.03 ~ )</sup></sub>  
-**@MEGAZONECLOUD** Commercial Tect Center / CloudOne <sub><sup>(2020.11 ~ 2021.02)</sup></sub>  
+**@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>(2020.11 ~ 2021.02)</sup></sub>  
 **@TwentyOZ** <sub><sup>(2020.06 ~ 2020.10)</sup></sub>  
   
 <br>
