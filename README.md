@@ -11,11 +11,12 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
 [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
+[![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
 ✨ *For More Info...* **[WEBSITE](https://danmin20.netlify.app/)** | **[NOTION](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
   
-**@NAVER** Glace CIC / G스마트플레이스서비스개발 <sub><sup>(2021.03 ~ )</sup></sub>  
+**@NAVER** Glace CIC / 스마트플레이스 예약 <sub><sup>(2021.03 ~ 2021.04)</sup></sub>  
 **@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>(2020.11 ~ 2021.02)</sup></sub>  
 **@TwentyOZ** <sub><sup>(2020.06 ~ 2020.10)</sup></sub>  
   
