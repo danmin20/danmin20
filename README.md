@@ -14,7 +14,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[WEBSITE](https://danmin20.netlify.app/)** | **[NOTION](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
+✨ *For More Info...* **[WEBSITE](https://danmin20.netlify.app/)** | **[RESUME](https://www.notion.so/danmin20/Resume-d7590c400a4242a4800d6f29ea5f35aa)**
   
 **@NAVER** Glace CIC / 스마트플레이스 예약 <sub><sup>(2021.03 ~ 2021.04)</sup></sub>  
 **@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>(2020.11 ~ 2021.02)</sup></sub>  
