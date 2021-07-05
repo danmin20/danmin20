@@ -14,9 +14,10 @@
   
 ✨ *For More Info...* **[WEBSITE](https://leejeongmin.vercel.app/)** | **[RESUME](https://www.notion.so/Resume-7c32047349064df5b0de46f325550e22)**
   
-**@NAVER** Glace CIC / 스마트플레이스 예약 <sub><sup>(2021.03 ~ 2021.04)</sup></sub>  
-**@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>(2020.11 ~ 2021.02)</sup></sub>  
-**@TwentyOZ** <sub><sup>(2020.06 ~ 2020.10)</sup></sub>  
+**@우아한형제들** 우아한테크캠프 4기 <sub><sup>FE intern (2021.03 ~ 2021.04)</sup></sub>  
+**@NAVER** Glace CIC / 스마트플레이스 예약 <sub><sup>FE intern (2021.03 ~ 2021.04)</sup></sub>  
+**@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>FE intern (2020.11 ~ 2021.02)</sup></sub>  
+**@TwentyOZ** <sub><sup>FE intern (2020.06 ~ 2020.10)</sup></sub>  
   
 <br>
 
