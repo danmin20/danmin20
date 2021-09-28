@@ -1,7 +1,7 @@
 # Lee Jeong Min
 👩‍🎓 Kyunghee Univ. Computer Engineering  
 👩‍💻 **WEB FRONT-END** Developer  
-🍪 [쿠키파킹](https://chrome.google.com/webstore/detail/cookie-parking/gbpliecdabaekbhmncopnbkfpdippdnl?hl=ko) Developer
+🍪 [Cookie Parking (쿠키파킹)](https://chrome.google.com/webstore/detail/cookie-parking/gbpliecdabaekbhmncopnbkfpdippdnl?hl=ko) Developer
   
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -13,11 +13,12 @@
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
 ✨ *For More Info...* **[WEBSITE](https://leejeongmin.vercel.app/)** | **[BLOG](https://velog.io/@danmin20)** | **[RESUME](https://www.notion.so/Resume-7c32047349064df5b0de46f325550e22)**
-  
-**@우아한형제들** 우아한테크캠프 4기 <sub><sup>FE intern (2021.03 ~ 2021.04)</sup></sub>  
-**@NAVER** Glace CIC / 스마트플레이스 예약 <sub><sup>FE intern (2021.03 ~ 2021.04)</sup></sub>  
-**@MEGAZONECLOUD** Commercial Tech Center / CloudOne <sub><sup>FE intern (2020.11 ~ 2021.02)</sup></sub>  
-**@TwentyOZ** <sub><sup>FE intern (2020.06 ~ 2020.10)</sup></sub>  
+
+**당근마켓** @Daangn <sub><sup>MVP 인턴십 FE intern (2021.09 ~ 2021.12)</sup></sub>  
+**우아한형제들** @Woowabros <sub><sup>우아한테크캠프 4기 FE intern (2021.07 ~ 2021.08)</sup></sub>  
+**네이버** @Naver <sub><sup>Glace CIC / 스마트플레이스 예약 FE intern (2021.03 ~ 2021.04)</sup></sub>  
+**메가존클라우드** @MegazoneCloud <sub><sup>Commercial Tech Center / CloudOne FE intern (2020.11 ~ 2021.02)</sup></sub>  
+**트웬티온스** @TwentyOZ <sub><sup>FE intern (2020.06 ~ 2020.10)</sup></sub>  
   
 <br>
 
