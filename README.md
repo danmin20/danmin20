@@ -1,7 +1,6 @@
-# Lee Jeong Min
+# 이정민 *Lee Jeong Min*
+👩‍💻 FE Developer  
 👩‍🎓 Kyunghee Univ. Computer Engineering  
-👩‍💻 **WEB FRONT-END** Developer  
-🍪 [Cookie Parking (쿠키파킹)](https://chrome.google.com/webstore/detail/cookie-parking/gbpliecdabaekbhmncopnbkfpdippdnl?hl=ko) Developer
   
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
