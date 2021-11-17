@@ -11,7 +11,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[WEBSITE](https://leejeongmin.vercel.app/)** | **[BLOG](https://velog.io/@danmin20)** | **[RESUME](https://www.notion.so/Resume-7c32047349064df5b0de46f325550e22)**
+✨ *For More Info...* **[WEBSITE](https://leejeongmin.vercel.app/)** | **[BLOG](https://velog.io/@danmin20)** | **[RESUME](https://www.notion.so/danmin20/Resume-fb4101f716404d17a4af40b721f4b9c6)**
 
 **당근마켓** @Daangn <sub><sup>MVP 인턴십 FE intern (2021.09 ~ 2021.12)</sup></sub>  
 **우아한형제들** @Woowabros <sub><sup>우아한테크캠프 4기 FE intern (2021.07 ~ 2021.08)</sup></sub>  
