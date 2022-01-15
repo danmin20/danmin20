@@ -13,6 +13,9 @@
   
 ✨ *For More Info...* **[WEBSITE](https://www.jeong-min.com/)** | **[BLOG](https://brunch.co.kr/@danmin)** | **[RESUME](https://danmin20.notion.site/Resume-fb4101f716404d17a4af40b721f4b9c6)**
 
+**우아한형제들** @Woowabros <sub><sup>웹프론트개발그룹 FE developer (2022.01 ~ now)</sup></sub>  
+
+---
 **당근마켓** @Daangn <sub><sup>MVP 인턴십 FE intern (2021.09 ~ 2021.12)</sup></sub>  
 **우아한형제들** @Woowabros <sub><sup>우아한테크캠프 4기 FE intern (2021.07 ~ 2021.08)</sup></sub>  
 **네이버** @Naver <sub><sup>Glace CIC / 스마트플레이스 예약 FE intern (2021.03 ~ 2021.04)</sup></sub>  
