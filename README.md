@@ -11,7 +11,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[WEBSITE](https://www.jeong-min.com/)** | **[BLOG](https://brunch.co.kr/@danmin)** | **[RESUME](https://danmin20.notion.site/Resume-fb4101f716404d17a4af40b721f4b9c6)**
+✨ *For More Info...* **[WEBSITE](https://www.jeong-min.com/)** | **[BLOG](https://danminblog.tistory.com/)** | **[RESUME](https://danmin20.notion.site/Resume-fb4101f716404d17a4af40b721f4b9c6)**
 
 **우아한형제들** @Woowabros <sub><sup>웹프론트개발그룹 FE developer (2022.01 ~ now)</sup></sub>  
 
