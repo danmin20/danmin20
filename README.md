@@ -1,17 +1,17 @@
 # 이정민 *Lee Jeong Min*
-👩‍💻 FE Developer  
+👩‍💻 Frontend Developer  
 👩‍🎓 Kyunghee Univ. Computer Engineering  
   
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Remix Badge](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)](https://remix.run/)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
-[![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
-[![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+
   
-✨ *For More Info...* **[WEBSITE](https://www.jeong-min.com/)** | **[BLOG](https://danminblog.tistory.com/)** | **[RESUME](https://danmin20.notion.site/Resume-fb4101f716404d17a4af40b721f4b9c6)**
+✨ *For More Info...* **[WEBSITE](https://www.jeong-min.com/)** | **[BLOG](https://danminblog.tistory.com/)** | **[RESUME](https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1)**
 
 **우아한형제들** @Woowabros <sub><sup>웹프론트개발그룹 FE developer (2022.01 ~ now)</sup></sub>  
 
